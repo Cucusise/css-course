@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: #333;
+    color: white;
+}
+
+
+
+.text{
+    text-align: center;
+    
+}
+
+
+.border{
+    background-color: #666; 
+    width: 100px;
+    padding: 10px 25px;
+    margin: 100px 50px;
+    border: 2px solid lightcoral;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center
+    ;
+
+}
+
+/* .img{ */
+    /* display: block; */
+   
+
+.block{
+    text-align: center;
+}
+
+
+.enlace{
+    color: white;
+    display: block;
+    text-align: center;
+}

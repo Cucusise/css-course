@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #333;
+    color: white;
+}
+
+.text{
+    background-color: lightcoral;
+    display: inline;
+}
+
+
+.link{
+    background-color: whitesmoke;
+    display: inline-block;
+}

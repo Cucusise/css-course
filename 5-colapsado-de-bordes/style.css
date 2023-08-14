@@ -1,0 +1,30 @@
+/* SOLO COLAPSAN LOS BORDES VERTICALES */
+
+
+
+
+body{
+    background-color: #333;
+    margin: 0;
+    color: whitesmoke;
+
+}
+
+
+.header{
+    background-color: lightcoral;
+    height: 100px;
+    margin-bottom: 20px ;
+}
+
+.box1,
+.box2{
+    background-color: lightcyan;
+    height: 300px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+
+}
+
